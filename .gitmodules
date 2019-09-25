@@ -1,0 +1,18 @@
+[submodule "ARGoS_bridge"]
+	path = ARGoS_bridge
+	url = https://github.com/tudelft/ARGoS_bridge
+[submodule "indoor_environment_generator"]
+	path = indoor_environment_generator
+	url = https://github.com/tudelft/indoor_environment_generator
+[submodule "bug_algorithms"]
+	path = bug_algorithms
+	url = https://github.com/tudelft/bug_algorithms
+[submodule "gradient_bug"]
+	path = gradient_bug
+	url = https://github.com/tudelft/gradient_bug
+[submodule "crazyflie-firmware"]
+	path = crazyflie-firmware
+	url = https://github.com/tudelft/crazyflie-firmware-private
+[submodule "crazyflie2-nrf-firmware"]
+	path = crazyflie2-nrf-firmware
+	url = https://github.com/tudelft/crazyflie2-nrf-firmware
