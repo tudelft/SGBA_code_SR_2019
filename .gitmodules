@@ -16,3 +16,6 @@
 [submodule "crazyflie2-nrf-firmware"]
 	path = crazyflie2-nrf-firmware
 	url = https://github.com/tudelft/crazyflie2-nrf-firmware
+[submodule "argos3"]
+	path = argos3
+	url = https://github.com/tudelft/argos3.git
