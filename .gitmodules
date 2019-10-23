@@ -1,9 +1,6 @@
 [submodule "ARGoS_bridge"]
 	path = ARGoS_bridge
 	url = https://github.com/tudelft/ARGoS_bridge
-[submodule "indoor_environment_generator"]
-	path = indoor_environment_generator
-	url = https://github.com/tudelft/indoor_environment_generator
 [submodule "bug_algorithms"]
 	path = bug_algorithms
 	url = https://github.com/tudelft/bug_algorithms
