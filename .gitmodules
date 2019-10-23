@@ -16,3 +16,6 @@
 [submodule "argos3"]
 	path = argos3
 	url = https://github.com/tudelft/argos3.git
+[submodule "indoor_environment_generator"]
+	path = indoor_environment_generator
+	url = https://github.com/tudelft/indoor_environment_generator.git
