@@ -6,7 +6,7 @@ This section presents all the repositories used for the simulation and the real-
 > Science Robotics, 23 October 2019 
 > DOI: http://robotics.sciencemag.org/lookup/doi/10.1126/scirobotics.aaw9710
 
-**The algorithm developed for the paper above is currently being cleaned up and ported to the latest firmware of the Crazyflie 2.1. More information will follow soon!**
+**The algorithm developed for the paper above is currently being cleaned up and ported to the latest firmware of the Crazyflie 2.1. Please go to for updates to https://github.com/tudelft/SGBA_CF2_App_layer**
 
 
 ## Simulation
