@@ -39,7 +39,7 @@ How to start the tests with ROS kinetic:
 This section shows all the github-repositories used for the real-world experiments, for which a *Crazyflie 2.0, Multiranger and Flowdeck* was used as explained in the paper. These repositories represent the firmware of the microprocessors on this small quadcopter:
 - Crazyflie_firmware: https://github.com/tudelft/crazyflie-firmware-private  (branch: systemtest_gradientbug)
 	- This repository contains all the necessary changes to the Crazyflie firmware in order to make the SGBA work onboard
-- Crazyflie2-nrf-firmware: https://github.com/tudelft/crazyflie2-nrf-firmware   (branch: systemtest_gradientbug)
+- Crazyflie2-nrf-firmware: https://github.com/tudelft/crazyflie2-nrf-firmware   (branch: ptx_mode_try_out)
 	- This repository contains the firmware of the NRF51 chip on the Crazyflie 2.0, in order to enable inter-drone communication.
 
 ### Launch
